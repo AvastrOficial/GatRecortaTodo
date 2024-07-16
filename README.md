@@ -12,3 +12,7 @@ https://is.gd/create.php
 <br></br>
 > python GatRecortaTodo.py
 # Fotos : 
+![image](https://github.com/user-attachments/assets/4d9ddff4-b5c7-4b00-b5c5-3f43a7b949c2)
+
+# emulado url :
+https://replit.com/@StrAva1/GatRecortaTodo
