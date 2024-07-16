@@ -4,7 +4,7 @@
 # api utilizado :
 https://is.gd/create.php 
 # Intaslacion mediante termux :
-> git clone 
+> git clone https://github.com/AvastrOficial/GatRecortaTodo
 <br></br>
 > cd CatRecortaTodo
 <br></br>
