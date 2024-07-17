@@ -1,5 +1,5 @@
 # GatRecortaTodo
-> Herramienta para recortar o enmascarar un url utilizando una api 
+> Herramienta para recortar o en mascarar un url utilizando una api 
 <br></br>
 # api utilizado :
 https://is.gd/create.php 
