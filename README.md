@@ -37,7 +37,7 @@
 
 **Este bot es un fork (una adaptación) de un script existente que también Personalizaba URLs. Puedes encontrar el repositorio original >** [**Aquí**](https://github.com/AvastrOficial/GatRecortaTodo). 
 
-**Si deseas mejorar este bot o crear tu propia versión, puedes hacer un fork de este repositorio y adaptarlo a tus necesidades.**
+**Si deseas mejorar este bot o crear tu propia versión, puedes hacer un fork de este repositorio y adaptarlo a tus necesidades**
 ------
 
 * ## __Créditos:__
