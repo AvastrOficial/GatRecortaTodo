@@ -41,6 +41,15 @@
 
 ------
 
+### Intaslacion mediante termux :
+> git clone https://github.com/AvastrOficial/GatRecortaTodo
+<br></br>
+> cd CatRecortaTodo
+<br></br>
+> pip install -r requirements.txt
+<br></br>
+> python GatRecortaTodo.py
+
 * ## __Créditos:__
 
 
