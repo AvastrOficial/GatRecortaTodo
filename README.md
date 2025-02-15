@@ -53,8 +53,6 @@
 * ## __Créditos:__
 
 
-**• Canal: [@BoxPrey](https://t.me/BoxPrey)**
-
 **• BY: [@PreBoyx](https://t.me/PreBoyx)**
 
 **• BY: [@AvastrOficial](https://t.me/AvastrOficial)**
